@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "YNCornerRadius"
-  spec.version      = "1.0.2"
+  spec.version      = "1.0.3"
   spec.summary      = "set Radius with UIRectCorner"
 
   spec.description  = "set Arbitrary Rounded CornerRadio"
@@ -31,6 +31,6 @@ Pod::Spec.new do |spec|
 
   spec.source_files = "YNCornerRadius/*.{h,m}"
 
-  spec.framework    = "QuartzCore"
+  spec.frameworks    = "UIKit", "Foundation", "QuartzCore"
 
 end

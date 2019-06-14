@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "YNCornerRadius"
-  spec.version      = "1.0.5"
+  spec.version      = "1.0.6"
   spec.summary      = "set Radius with UIRectCorner"
 
   spec.description  = "set Arbitrary Rounded CornerRadio"

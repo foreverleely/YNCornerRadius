@@ -16,14 +16,14 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "YNCornerRadius"
-  spec.version      = "1.0.4"
+  spec.version      = "1.0.5"
   spec.summary      = "set Radius with UIRectCorner"
 
   spec.description  = "set Arbitrary Rounded CornerRadio"
 
   spec.homepage     = "https://github.com/foreverleely/YNCornerRadius"
 
-  spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  spec.license      = { :type => "MIT", :file => "LICENSE" }
 
   spec.platform     = :ios
 
